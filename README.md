@@ -1,4 +1,10 @@
 # travel-agency
 Uni backend project
 
-To start the server you need to be in the server folder and type this command in the terminal: npm run dev
+Firstly, install the dependencies in the travel-agency folder(this is where the front-end is) - npm install 
+Then run the command - npm run dev (in the same directory).
+
+After you run the front end, navigate to the server folder - cd /server
+Install the dependencies - npm install
+Run the back-end - npm run dev
+
